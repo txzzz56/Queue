@@ -1,12 +1,13 @@
 # Queue demonstration
 
 Et Java-prosjekt som demonstrerer hvordan en Queue (kø) fungerer ved hjelp av JavaFX.
-Funksjoner
-+ Legge til elementer
-- Fjerne elementer
- Vise køen
- Sortere elementene
-📊Vise kø-status
+
+# Funksjoner
+Legge til elementer (+)
+Fjerne elementer (-)
+Vise køen
+Sortere elementene
+Vise kø-status
 Sirkulær kø med array
 
 
